@@ -1,0 +1,47 @@
+.navbar {
+	width: 100%;
+	height: 6rem;
+	background-color: #a0c0ba;
+}
+.navlast{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.navbar h1 {
+	color:brown;
+	font-size: 30px;
+	margin-left: 20px;
+	font-style: italic;
+	font-weight: bold;
+
+}
+.proflink{
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	padding-right: 2rem;
+	padding-top: 1rem;
+}
+.white_btn {
+	border: none;
+	outline: none;
+	border-radius: 20px;
+	width: 120px;
+	color: white;
+	background-color: brown;
+	font-weight: bold;
+	font-size: 18px;
+	cursor: pointer;
+	margin-right: 2rem;
+	
+}
+.welcome{
+	font-size: 2.5rem;
+	color: rgb(211, 155, 91);
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+	padding: 2rem;
+}

@@ -1,0 +1,88 @@
+.navbar {
+	width: 100%;
+	height: 6rem;
+	background-color: #91c0b7;
+}
+.navlast{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.navbar h1 {
+	color:brown;
+	font-size: 30px;
+	margin-left: 20px;
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+.white_btn {
+	border: none;
+	outline: none;
+	border-radius: 20px;
+	width: 120px;
+	color: white;
+	background-color: brown;
+	font-weight: bold;
+	font-size: 18px;
+	cursor: pointer;
+    margin-bottom: 1rem;
+	margin-right: 2rem;
+	
+}
+.welcome{
+	font-size: 2.5rem;
+	color: rgb(211, 155, 91);
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+	padding: 1rem;
+}
+.edit-user-container{
+	border: burlywood;
+	border-radius: 1rem;
+	border-style: solid;
+	width: 30rem;
+	display: block;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: 15rem;
+	padding: 2rem;
+}
+.editbtn{
+	background-color: green;
+	width: 7rem;
+	height: 2.5rem;
+	color: white;
+	border-radius: 0.25rem;
+	font-weight: bold;
+	margin-top: 1rem;
+}
+.createlink{
+	color: white;
+	background-color: red;
+	border-radius: 1rem;
+	padding: 0.5rem;
+	margin-right: 1rem;
+	margin-top: 1rem;
+	font-weight: bold;
+}
+.dashbtn{
+	background-color: rgb(41, 90, 61);
+	width: 4rem;
+	border-color: white;
+	color: white;
+	font-weight: bold;
+}
+.buttonback{
+	background-color: rgb(43, 66, 52);
+	width: 6rem;
+	height: 2.5rem;
+	color: white;
+	border-radius: 0.25rem;
+	font-weight: bold;
+	margin-left: 3rem;
+	margin-right: 2rem;
+}
